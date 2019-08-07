@@ -1,0 +1,41 @@
+body{ 
+	font-family: arial, helvetica, sans-serif;
+	margin-left: 0px;
+	padding: 0px;
+	margin: auto;
+    padding: 10px 20px;
+ }
+ 
+.titulo{ 
+	font-weight: bold;
+	font-size: 16px;
+	color: #FFFF00;
+	text-transform: uppercase; 
+ }
+ a{
+ 	color: #FFFF00;
+ }
+p, ul, ol { 
+	color: #CDBE70;	
+	font-size: 12px;
+	width: 290px;
+	text-align: justify;
+}
+th{
+	color: #CDBE70;	
+	font-size: 12px;	
+}
+ul {
+	list-style-type: square;
+}
+table {
+	width: 50%;
+	border: 2px #CDBE70 solid;
+	font-size: 12px
+}
+td{
+	background: #EEE8AA;
+}
+#img22,#img33,#img55 {
+	margin: 20px 0 0 0;
+}
